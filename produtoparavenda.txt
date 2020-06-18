@@ -1,0 +1,2 @@
+camisa azul;34;842;2
+camisa vermelha;32;500;3
